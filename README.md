@@ -8,8 +8,8 @@
 Ниже пример кода из нашего приложения:
 
 ```css
-const a = 1
-const b = 2
-
-console.log(a + b)
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
 ```
